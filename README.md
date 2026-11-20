@@ -11,6 +11,9 @@ A sleek, dark-mode Windows utility built with Python and `customtkinter` that al
 * **↩️ Undo / ↪️ Redo System:** Automatically creates state snapshots (`UndoLayout.reg` and `RedoLayout.reg`) so you can safely revert or reapply layout changes.
 * **🎨 Modern Dark GUI:** Built with `customtkinter` with audio feedback cues for save and restore actions.
 
+<img width="557" height="367" alt="image" src="https://github.com/user-attachments/assets/b11cef27-1de6-4fdb-8e18-2d21f965df99" />
+
+
 ---
 
 ## 🛠️ Requirements & Installation
