@@ -25,6 +25,8 @@ A sleek, dark-mode Windows utility built with Python and `customtkinter` that al
 
 
 pip install customtkinter
+
+
 🚀 Usage
 Run the application:
 
